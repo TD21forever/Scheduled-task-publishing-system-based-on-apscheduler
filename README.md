@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Note
+
+https://www.bilibili.com/video/BV1NJ411c73T 对api进行封装
